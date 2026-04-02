@@ -1,2 +1,3 @@
 # au_discount_info
 get discount information from woolie, coles, etc...
+바보몽구
